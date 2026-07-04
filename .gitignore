@@ -7,8 +7,6 @@ __pycache__/
 .venv/
 venv/
 .models/
-models/
-data/raw/
 .ipynb_checkpoints/
 .vscode/
 
