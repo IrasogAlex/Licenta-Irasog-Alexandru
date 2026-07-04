@@ -3,7 +3,7 @@ Sistem informatic pentru detectarea fraudelor financiare utilizând tehnici de �
 Descrierea proiectului
 Acest proiect reprezintă o soluție software bazată pe inteligența artificială pentru detectarea fraudelor cu carduri bancare. Sistemul utilizează algoritmul XGBoost și tehnica SMOTE pentru a gestiona dezechilibrul datelor și include o interfață web interactivă (dezvoltată cu Streamlit) pentru analiza tranzacțiilor și explicabilitatea deciziilor prin SHAP.
 
-Adresa repository:
+Adresa repository: https://github.com/IrasogAlex/Licenta-Irasog-Alexandru
 
 Structura proiectului
 Codul sursă este organizat modular.
